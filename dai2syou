@@ -1,0 +1,12 @@
+スラスラわかるC言語
+    └ 2章
+       └P37
+          └#include <stdio.h>
+
+int main(void) {
+
+	printf("ゼロの使い魔");
+
+	return 0;
+}
+
