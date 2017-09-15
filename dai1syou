@@ -1,0 +1,13 @@
+
+スラスラわかるC言語
+    └ 1章
+       └　P18
+            └#include <stdio.h>
+
+int main(void) {
+
+	printf("hello,world!");
+
+	return 0;
+}
+
