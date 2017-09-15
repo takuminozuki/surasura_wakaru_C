@@ -11,3 +11,144 @@ int main(void) {
 }
 
 
+スラスラわかるC言語
+    └ 2章
+       └P39
+          └#include <stdio.h>
+
+int main(void) {
+
+	printf("ゼロの使い魔");
+	printf("12345");
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P41
+       　└#include <stdio.h>
+
+int main(void){
+
+	printf("123\b45");
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P41~42
+       　└#include <stdio.h>
+
+int main(void) {
+
+	printf("123\r45");
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P43
+       　└#include <stdio.h>
+
+int main(void) {
+
+	printf("123\n45");
+
+	return 0;
+}
+
+       └P43-2
+         └#include <stdio.h>
+
+int main(void) {
+
+	printf("123\n");
+	printf("45");
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P44
+       　└#include <stdio.h>
+
+int main(void) {
+
+	printf("僕はその時、\"いいえ、妹です\"と答えました");
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P46
+       　 └/*注釈の内容*/
+/*注釈の内容１
+
+
+注釈の内容２*/
+
+//  注釈の内容
+
+//　注釈の内容１
+//  注釈の内容２
+
+
+スラスラわかるC言語
+    └ 2章
+       └P48
+       　 └#include <stdio.h>
+int main(void) {
+
+	printf("テストの結果は%d点でした",10);
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P55
+       　 └#include <stdio.h>
+
+int main(void) {
+
+	printf("テストの結果は%cでした。\n点数で言うと%d点です",'A',0);
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P56
+       　 └#include <stdio.h>
+
+int main(void) {
+
+	printf("テストの結果は%cでした。%c点数で言うと%d点です",'A',10,0);
+
+	return 0;
+}
+
+
+スラスラわかるC言語
+    └ 2章
+       └P56 Q-2
+       　 └#include <stdio.h>
+
+int main(void) {
+
+	printf("\a");
+
+	return 0;
+}
